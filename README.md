@@ -1,16 +1,5 @@
 # flutter_example_json_parse_image_list
 
-A new Flutter project.
+A Flutter app which displays a list of images from a JSON placeholder url, parsed in the background.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2022-02-28 at 13 32 10](https://user-images.githubusercontent.com/54467942/156012735-77253373-2f3b-4654-987f-517cb5854b47.png)
