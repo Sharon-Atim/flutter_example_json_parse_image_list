@@ -1,4 +1,4 @@
-# flutter_example_json_parse_image_list
+# Flutter example json parse image list
 
 A Flutter app which displays a list of images from a JSON placeholder url, parsed in the background.
 
