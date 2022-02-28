@@ -2,4 +2,4 @@
 
 A Flutter app which displays a list of images from a JSON placeholder url, parsed in the background.
 
-![Simulator Screen Shot - iPhone 13 - 2022-02-28 at 13 32 10](https://user-images.githubusercontent.com/54467942/156012735-77253373-2f3b-4654-987f-517cb5854b47.png)
+![image](https://user-images.githubusercontent.com/54467942/156013020-88495be0-8fba-44b2-a950-a2b29e7ac6e4.png)
